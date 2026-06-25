@@ -6,10 +6,6 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-##  Live Demo & Screenshots
-
-- **Live Web App**: [https://your-custom-link.vercel.app](https://your-custom-link.vercel.app) *(Replace with your Vercel deployment URL)*
-- **GitHub Repository**: [https://github.com/yourusername/flipkart-nextjs-clone](https://github.com/yourusername/flipkart-nextjs-clone)
 
 ---
 
