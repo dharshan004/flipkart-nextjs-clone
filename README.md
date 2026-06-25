@@ -1,4 +1,4 @@
-# ⚡ Flipkart E-commerce Replica (Next.js 16 + App Router)
+#  Flipkart E-commerce Replica (Next.js 16 + App Router)
 
 A high-density, high-velocity e-commerce web application replicating the modern Flipkart smartphone browsing experience. Engineered with **Next.js 16 (App Router)**, **React 19**, **Tailwind CSS v4**, and **Client State Management**, featuring simulated **OTP Authentication**, realistic **Razorpay Payment Gateway Checkouts**, and real-time **Order Tracking History**.
 
@@ -6,14 +6,14 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-## 🚀 Live Demo & Screenshots
+##  Live Demo & Screenshots
 
 - **Live Web App**: [https://your-custom-link.vercel.app](https://your-custom-link.vercel.app) *(Replace with your Vercel deployment URL)*
 - **GitHub Repository**: [https://github.com/yourusername/flipkart-nextjs-clone](https://github.com/yourusername/flipkart-nextjs-clone)
 
 ---
 
-## ✨ Key Technical Features
+##  Key Technical Features
 
 ### 1. Modern Frontend Architecture
 - **Next.js 16 App Router**: Server-side static generation (SSG) combined with dynamic client components for blazing-fast page loads (`✓ Compiled in 2.9s`).
@@ -39,7 +39,7 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -52,7 +52,7 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── app/
@@ -74,7 +74,7 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-## ⚡ Getting Started Locally
+##  Getting Started Locally
 
 1. **Clone the repository**:
    ```bash
@@ -96,11 +96,3 @@ A high-density, high-velocity e-commerce web application replicating the modern 
 
 ---
 
-## 📄 Resume / Portfolio Bullet Points
-
-*Copy & paste these directly into your resume project descriptions:*
-
-- **Flipkart E-Commerce Replica** *(Next.js 16, React 19, Tailwind CSS v4, Context API)*
-  - Built a production-grade e-commerce web application replicating Flipkart’s mobile UI with Next.js App Router and static prerendering.
-  - Engineered client-side state management using React Context API and LocalStorage to handle real-time cart pricing, discount calculations, and persistent user authentication sessions.
-  - Developed an interactive Razorpay payment gateway checkout simulation featuring multi-option UPI/Card processing and 3D-Secure SMS OTP validation.
